@@ -1,0 +1,8 @@
+1. verified encryption is still on the toolbar
+1.5. Verified outlook setting (Entrust Security tab)
+2. cleared her certificates
+3. went to log her into Entrust, her Security Store name was empty
+4. entered her correct name & password
+5. "password has expired" msg received
+6. changed entrust password
+7. tested, working
